@@ -1,0 +1,6 @@
+ezdxf
+matplotlib
+numpy
+openpyxl
+scipy
+shapely

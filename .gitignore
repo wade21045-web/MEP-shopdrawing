@@ -1,0 +1,8 @@
+*.dwg
+*.dxf
+*.pkl
+*.png
+*.zip
+*.xz
+output/
+__pycache__/
